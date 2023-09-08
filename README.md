@@ -1,13 +1,6 @@
 #CODSOFT
+
 Android Calculator and Flashlight App
-
-CALCULATOR
-![image](https://github.com/Arihantv58/CODSOFT/assets/96691232/ffb907db-61b1-4d49-863d-966a9b83fe91)
-
-FLASHLIGHT
-![flashlight-app-icon-23](https://github.com/Arihantv58/CODSOFT/assets/96691232/fa3c53a7-6214-4b9f-a5a3-6acea43a316e)
-
-
 This repository contains an Android application built using Kotlin that combines a calculator and a flashlight. It provides a simple and user-friendly interface for performing basic calculations and enabling the flashlight on your Android device.
 
 Features
